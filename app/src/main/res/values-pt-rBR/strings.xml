@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="welcome">Olá mundo bem vindo ao Android</string>
+    <string name="deitel_logo">Abelha Doida</string>
+</resources>
